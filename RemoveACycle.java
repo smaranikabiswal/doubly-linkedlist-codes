@@ -1,9 +1,9 @@
 public class RemoveACycle{
     public static class node{
-        int data;
+       //int data;
         node next;
         public node(int data){
-            this.data=data;
+            //this.data=data;
             this.next=null;
         }
     }
